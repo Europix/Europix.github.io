@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://blog.europix.icu/
+url: https://blog.europix.icu
 date_format: "ordinal"
 title: Beacon
 subtitle: "LightHouse for Europix"
@@ -83,7 +83,7 @@ navs:
 
   -
     href: /wiki/
-    label: wiki
+    label: Wiki
 
   -
     href: /links/
