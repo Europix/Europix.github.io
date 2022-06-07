@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://blog.europix.icu/
 date_format: "ordinal"
 title: Beacon
 subtitle: "LightHouse for Europix"
@@ -58,7 +58,7 @@ author: Europix
 organization: 
 organization_url: 
 github_username: Europix
-location: Wuhan, China
+location: In the Darkness
 email: 
 
 # ---------------- #
@@ -67,11 +67,11 @@ email:
 navs:
   -
     href: /
-    label: 首页
+    label: Main Page
 
   -
     href: /categories/
-    label: 分类
+    label: Categories
 
 #   -
 #     href: /archives/
@@ -83,15 +83,15 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: wiki
 
   -
     href: /links/
-    label: 链接
+    label: Links
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
