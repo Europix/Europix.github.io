@@ -17,7 +17,7 @@ keywords: blog
 
 ![小驴车](/images/blog/donkey.jpg)
 
-##### (Photo on June 10)
+**(Photo on June 10)**
 
 最后在建议下使用了 
 
@@ -32,7 +32,7 @@ keywords: blog
 说几个犯病犯得多的吧 希望以后不要踩这个坑：
 
 - Python手动安装记得要记得 --with-ssl && 不要用root:
-''' ./configure --enable-optinizations --prefix=/usr/local/python3.7/ --with-ensurepip --with-ssl '''
+``` ./configure --enable-optinizations --prefix=/usr/local/python3.7/ --with-ensurepip --with-ssl ```
 
 - 记得多切换用户 能用sudo的命令就不要切root
 
