@@ -1,9 +1,9 @@
 ---
 layout: post
 title: DataFrame
-categories: Blog, data, python
+categories: Blog
 description: Usage of DataFrame
-keywords: Data, Frame
+keywords: Dataframe
 ---
 
 ## 重新认识 Pandas 里面的 DataFrame
